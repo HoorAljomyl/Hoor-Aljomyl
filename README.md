@@ -2,11 +2,11 @@
 
 Artificial Intelligence student at Princess Nourah bint Abdulrahman University.
 
-I'm passionate about developing AI solutions that solve real-world problems and continuously improving my technical skills through hands-on projects.
+I'm passionate about building AI solutions that solve real-world problems through Machine Learning, Deep Learning, and Large Language Models.
 
 ---
 
-## 💡 Interests
+## Interests
 
 - Machine Learning
 - Deep Learning
@@ -16,18 +16,8 @@ I'm passionate about developing AI solutions that solve real-world problems and 
 
 ---
 
-## 🎯 Current Focus
-
-I'm currently building practical AI projects to strengthen my portfolio and prepare for internships and opportunities in the AI industry.
-
----
-
-## 📫 Connect
+## Connect
 
 - LinkedIn: https://www.linkedin.com/in/hoor-aljomyl-6716a4285/
 
 Portfolio website coming soon.
-
----
-
-> *Always learning. Always building.*
