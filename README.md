@@ -13,7 +13,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-#💡 Areas of Interest
+##💡 Areas of Interest
 
 - Machine Learning
 - Deep Learning
@@ -24,7 +24,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 - Python
@@ -47,10 +47,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 
 ## 📫 Connect With Me
-
-- LinkedIn *(Coming Soon)*
-- Portfolio *(Coming Soon)*
-
+- LinkedIn : https://www.linkedin.com/in/hoor-aljomyl-6716a4285?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 ---
 
 > "Building AI that creates real impact."
