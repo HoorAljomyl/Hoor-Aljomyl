@@ -1,8 +1,8 @@
 # Hi, I'm Hoor Aljomyl 👋
 
-Artificial Intelligence student at Princess Nourah bint Abdulrahman University.
+Artificial Intelligence Student at Princess Nourah bint Abdulrahman University.
 
-I'm passionate about building AI solutions that solve real-world problems through Machine Learning, Deep Learning, and Large Language Models.
+Passionate about Machine Learning, Deep Learning, and Large Language Models, with a strong interest in building AI solutions for real-world challenges.
 
 ---
 
@@ -18,5 +18,4 @@ I'm passionate about building AI solutions that solve real-world problems throug
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/hoor-aljomyl-6716a4285/
-
+- [LinkedIn](https://www.linkedin.com/in/hoor-aljomyl-6716a4285/)
