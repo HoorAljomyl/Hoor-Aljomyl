@@ -1,53 +1,33 @@
 # Hi, I'm Hoor Aljomyl 👋
 
-Artificial Intelligence Student at Princess Nourah University
+Artificial Intelligence student at Princess Nourah bint Abdulrahman University.
 
-I'm passionate about building intelligent systems that solve real-world problems through Machine Learning, Deep Learning, and Large Language Models
-
----
-
-# Education
-
-- B.Sc. in Artificial Intelligence
-- Princess Nourah bint Abdulrahman University
+I'm passionate about developing AI solutions that solve real-world problems and continuously improving my technical skills through hands-on projects.
 
 ---
 
-##💡 Areas of Interest
+## 💡 Interests
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
-- AI Applications
+- Generative AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Focus
 
-**Languages**
-- Python
-- SQL
+I'm currently building practical AI projects to strengthen my portfolio and prepare for internships and opportunities in the AI industry.
 
-**AI & Data**
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
-
-**Tools**
-- Git
-- GitHub
-- Firebase
-- Figma
-- VS Code
-
-
-## 📫 Connect With Me
-- LinkedIn : https://www.linkedin.com/in/hoor-aljomyl-6716a4285?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 ---
 
-> "Building AI that creates real impact."
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/hoor-aljomyl-6716a4285/
+
+Portfolio website coming soon.
+
+---
+
+> *Always learning. Always building.*
