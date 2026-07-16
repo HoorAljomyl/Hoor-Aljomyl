@@ -20,4 +20,3 @@ I'm passionate about building AI solutions that solve real-world problems throug
 
 - LinkedIn: https://www.linkedin.com/in/hoor-aljomyl-6716a4285/
 
-Portfolio website coming soon.
